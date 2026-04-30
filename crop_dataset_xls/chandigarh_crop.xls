@@ -1,0 +1,5741 @@
+ <table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+        <thead>
+          <tr>
+            <!-- th rowspan="2">S.No.</th -->
+
+            <th rowspan="2">State/Crop/District</th>
+            <th rowspan="2">Season</th>
+                  				<th colspan="3">2000 - 2001</th><th colspan="3">2001 - 2002</th><th colspan="3">2002 - 2003</th><th colspan="3">2003 - 2004</th><th colspan="3">2004 - 2005</th><th colspan="3">2005 - 2006</th><th colspan="3">2006 - 2007</th><th colspan="3">2007 - 2008</th><th colspan="3">2008 - 2009</th><th colspan="3">2009 - 2010</th><th colspan="3">2010 - 2011</th><th colspan="3">2011 - 2012</th><th colspan="3">2012 - 2013</th><th colspan="3">2013 - 2014</th><th colspan="3">2014 - 2015</th><th colspan="3">2015 - 2016</th><th colspan="3">2016 - 2017</th><th colspan="3">2017 - 2018</th><th colspan="3">2018 - 2019</th><th colspan="3">2019 - 2020</th><th colspan="3">2020 - 2021</th><th colspan="3">2021 - 2022</th><th colspan="3">2022 - 2023</th>      			
+          </tr>
+          <tr>
+    			    				<th count="1">Area <br>(Hectare)</th><th count="1">Production <br> (Tonnes)</th><th count="1">Yield <br> (Ton./Ha.)</th><th count="2">Area <br>(Hectare)</th><th count="2">Production <br> (Tonnes)</th><th count="2">Yield <br> (Ton./Ha.)</th><th count="3">Area <br>(Hectare)</th><th count="3">Production <br> (Tonnes)</th><th count="3">Yield <br> (Ton./Ha.)</th><th count="4">Area <br>(Hectare)</th><th count="4">Production <br> (Tonnes)</th><th count="4">Yield <br> (Ton./Ha.)</th><th count="5">Area <br>(Hectare)</th><th count="5">Production <br> (Tonnes)</th><th count="5">Yield <br> (Ton./Ha.)</th><th count="6">Area <br>(Hectare)</th><th count="6">Production <br> (Tonnes)</th><th count="6">Yield <br> (Ton./Ha.)</th><th count="7">Area <br>(Hectare)</th><th count="7">Production <br> (Tonnes)</th><th count="7">Yield <br> (Ton./Ha.)</th><th count="8">Area <br>(Hectare)</th><th count="8">Production <br> (Tonnes)</th><th count="8">Yield <br> (Ton./Ha.)</th><th count="9">Area <br>(Hectare)</th><th count="9">Production <br> (Tonnes)</th><th count="9">Yield <br> (Ton./Ha.)</th><th count="10">Area <br>(Hectare)</th><th count="10">Production <br> (Tonnes)</th><th count="10">Yield <br> (Ton./Ha.)</th><th count="11">Area <br>(Hectare)</th><th count="11">Production <br> (Tonnes)</th><th count="11">Yield <br> (Ton./Ha.)</th><th count="12">Area <br>(Hectare)</th><th count="12">Production <br> (Tonnes)</th><th count="12">Yield <br> (Ton./Ha.)</th><th count="13">Area <br>(Hectare)</th><th count="13">Production <br> (Tonnes)</th><th count="13">Yield <br> (Ton./Ha.)</th><th count="14">Area <br>(Hectare)</th><th count="14">Production <br> (Tonnes)</th><th count="14">Yield <br> (Ton./Ha.)</th><th count="15">Area <br>(Hectare)</th><th count="15">Production <br> (Tonnes)</th><th count="15">Yield <br> (Ton./Ha.)</th><th count="16">Area <br>(Hectare)</th><th count="16">Production <br> (Tonnes)</th><th count="16">Yield <br> (Ton./Ha.)</th><th count="17">Area <br>(Hectare)</th><th count="17">Production <br> (Tonnes)</th><th count="17">Yield <br> (Ton./Ha.)</th><th count="18">Area <br>(Hectare)</th><th count="18">Production <br> (Tonnes)</th><th count="18">Yield <br> (Ton./Ha.)</th><th count="19">Area <br>(Hectare)</th><th count="19">Production <br> (Tonnes)</th><th count="19">Yield <br> (Ton./Ha.)</th><th count="20">Area <br>(Hectare)</th><th count="20">Production <br> (Tonnes)</th><th count="20">Yield <br> (Ton./Ha.)</th><th count="21">Area <br>(Hectare)</th><th count="21">Production <br> (Tonnes)</th><th count="21">Yield <br> (Ton./Ha.)</th><th count="22">Area <br>(Hectare)</th><th count="22">Production <br> (Tonnes)</th><th count="22">Yield <br> (Ton./Ha.)</th><th count="23">Area <br>(Hectare)</th><th count="23">Production <br> (Tonnes)</th><th count="23">Yield <br> (Ton./Ha.)</th>    			    			</tr>
+        </thead>
+        <tbody>
+                  <tr>
+
+        <th>Chandigarh</th>
+        <td></td>
+                <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+              <td></td>
+        <td></td>
+        <td></td>
+            </tr>
+                  <tr>
+          <th>1. Arhar/Tur</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Kharif</td>
+                        <td>
+              20            </td>
+            <td>
+                          </td>
+            <td>
+              0.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Arhar/Tur)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>2. Gram</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Rabi</td>
+                        <td>
+              1            </td>
+            <td>
+              1            </td>
+            <td>
+              1.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Gram)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        1        </b>
+      </td>
+      <td><b>
+        1        </b>
+      </td>
+      <td><b>1      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>3. Maize</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Kharif</td>
+                        <td>
+              200            </td>
+            <td>
+              500            </td>
+            <td>
+              2.50            </td>
+                      <td>
+              200            </td>
+            <td>
+              450            </td>
+            <td>
+              2.25            </td>
+                      <td>
+              200            </td>
+            <td>
+              450            </td>
+            <td>
+              2.25            </td>
+                      <td>
+              100            </td>
+            <td>
+              200            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              60            </td>
+            <td>
+              120            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              40            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              40            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              40            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              60            </td>
+            <td>
+              125            </td>
+            <td>
+              2.08            </td>
+                      <td>
+              30            </td>
+            <td>
+              65            </td>
+            <td>
+              2.17            </td>
+                      <td>
+              25            </td>
+            <td>
+              55            </td>
+            <td>
+              2.20            </td>
+                      <td>
+              25            </td>
+            <td>
+              55            </td>
+            <td>
+              2.20            </td>
+                      <td>
+              25            </td>
+            <td>
+              57            </td>
+            <td>
+              2.28            </td>
+                      <td>
+              25            </td>
+            <td>
+              57            </td>
+            <td>
+              2.28            </td>
+                      <td>
+              25            </td>
+            <td>
+              50            </td>
+            <td>
+              2.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              40            </td>
+            <td>
+              2.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+              8            </td>
+            <td>
+              24            </td>
+            <td>
+              3.00            </td>
+                      <td>
+              8            </td>
+            <td>
+              24            </td>
+            <td>
+              3.00            </td>
+                      <td>
+              9            </td>
+            <td>
+              26            </td>
+            <td>
+              2.89            </td>
+                      <td>
+              10            </td>
+            <td>
+              30            </td>
+            <td>
+              3.00            </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Maize)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        200        </b>
+      </td>
+      <td><b>
+        500        </b>
+      </td>
+      <td><b>2.5      </b>
+      </td>
+    
+      <td><b>
+        200        </b>
+      </td>
+      <td><b>
+        450        </b>
+      </td>
+      <td><b>2.25      </b>
+      </td>
+    
+      <td><b>
+        200        </b>
+      </td>
+      <td><b>
+        450        </b>
+      </td>
+      <td><b>2.25      </b>
+      </td>
+    
+      <td><b>
+        100        </b>
+      </td>
+      <td><b>
+        200        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        60        </b>
+      </td>
+      <td><b>
+        120        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        40        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        40        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        40        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        60        </b>
+      </td>
+      <td><b>
+        125        </b>
+      </td>
+      <td><b>2.08      </b>
+      </td>
+    
+      <td><b>
+        30        </b>
+      </td>
+      <td><b>
+        65        </b>
+      </td>
+      <td><b>2.17      </b>
+      </td>
+    
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>
+        55        </b>
+      </td>
+      <td><b>2.2      </b>
+      </td>
+    
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>
+        55        </b>
+      </td>
+      <td><b>2.2      </b>
+      </td>
+    
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>
+        57        </b>
+      </td>
+      <td><b>2.28      </b>
+      </td>
+    
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>
+        57        </b>
+      </td>
+      <td><b>2.28      </b>
+      </td>
+    
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        40        </b>
+      </td>
+      <td><b>2      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+        8        </b>
+      </td>
+      <td><b>
+        24        </b>
+      </td>
+      <td><b>3      </b>
+      </td>
+    
+      <td><b>
+        8        </b>
+      </td>
+      <td><b>
+        24        </b>
+      </td>
+      <td><b>3      </b>
+      </td>
+    
+      <td><b>
+        9        </b>
+      </td>
+      <td><b>
+        26        </b>
+      </td>
+      <td><b>2.89      </b>
+      </td>
+    
+      <td><b>
+        10        </b>
+      </td>
+      <td><b>
+        30        </b>
+      </td>
+      <td><b>3      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>4. Masoor</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Rabi</td>
+                        <td>
+              1            </td>
+            <td>
+              1.5            </td>
+            <td>
+              1.50            </td>
+                      <td>
+              20            </td>
+            <td>
+              25            </td>
+            <td>
+              1.25            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Masoor)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        1        </b>
+      </td>
+      <td><b>
+        1.5        </b>
+      </td>
+      <td><b>1.5      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        25        </b>
+      </td>
+      <td><b>1.25      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>5. Moong(Green Gram)</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Kharif</td>
+                        <td>
+              2            </td>
+            <td>
+              2            </td>
+            <td>
+              1.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Moong(Green Gram))</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        2        </b>
+      </td>
+      <td><b>
+        2        </b>
+      </td>
+      <td><b>1      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>6. Rapeseed &amp;Mustard</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Rabi</td>
+                        <td>
+              80            </td>
+            <td>
+              96            </td>
+            <td>
+              1.20            </td>
+                      <td>
+              70            </td>
+            <td>
+              125            </td>
+            <td>
+              1.79            </td>
+                      <td>
+              30            </td>
+            <td>
+              50            </td>
+            <td>
+              1.67            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Rapeseed &amp;Mustard)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        80        </b>
+      </td>
+      <td><b>
+        96        </b>
+      </td>
+      <td><b>1.2      </b>
+      </td>
+    
+      <td><b>
+        70        </b>
+      </td>
+      <td><b>
+        125        </b>
+      </td>
+      <td><b>1.79      </b>
+      </td>
+    
+      <td><b>
+        30        </b>
+      </td>
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>1.67      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>7. Rice</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Kharif</td>
+                        <td>
+              70            </td>
+            <td>
+              350            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              50            </td>
+            <td>
+              250            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              140            </td>
+            <td>
+              700            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              100            </td>
+            <td>
+              500            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              80            </td>
+            <td>
+              400            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              50            </td>
+            <td>
+              250            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              50            </td>
+            <td>
+              250            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              50            </td>
+            <td>
+              250            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              100            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              100            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              103            </td>
+            <td>
+              5.15            </td>
+                      <td>
+              20            </td>
+            <td>
+              103            </td>
+            <td>
+              5.15            </td>
+                      <td>
+              20            </td>
+            <td>
+              105            </td>
+            <td>
+              5.25            </td>
+                      <td>
+              20            </td>
+            <td>
+              106            </td>
+            <td>
+              5.30            </td>
+                      <td>
+              20            </td>
+            <td>
+              100            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              20            </td>
+            <td>
+              103            </td>
+            <td>
+              5.15            </td>
+                      <td>
+              8            </td>
+            <td>
+              42            </td>
+            <td>
+              5.25            </td>
+                      <td>
+              10            </td>
+            <td>
+              55            </td>
+            <td>
+              5.50            </td>
+                      <td>
+              10            </td>
+            <td>
+              53            </td>
+            <td>
+              5.30            </td>
+                      <td>
+              80            </td>
+            <td>
+              440            </td>
+            <td>
+              5.50            </td>
+                      <td>
+              82            </td>
+            <td>
+              451            </td>
+            <td>
+              5.50            </td>
+                      <td>
+              82            </td>
+            <td>
+              451            </td>
+            <td>
+              5.50            </td>
+                      <td>
+              84            </td>
+            <td>
+              462            </td>
+            <td>
+              5.50            </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Rice)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        70        </b>
+      </td>
+      <td><b>
+        350        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>
+        250        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        140        </b>
+      </td>
+      <td><b>
+        700        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        100        </b>
+      </td>
+      <td><b>
+        500        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        80        </b>
+      </td>
+      <td><b>
+        400        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>
+        250        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>
+        250        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        50        </b>
+      </td>
+      <td><b>
+        250        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        100        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        100        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        103        </b>
+      </td>
+      <td><b>5.15      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        103        </b>
+      </td>
+      <td><b>5.15      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        105        </b>
+      </td>
+      <td><b>5.25      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        106        </b>
+      </td>
+      <td><b>5.3      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        100        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        103        </b>
+      </td>
+      <td><b>5.15      </b>
+      </td>
+    
+      <td><b>
+        8        </b>
+      </td>
+      <td><b>
+        42        </b>
+      </td>
+      <td><b>5.25      </b>
+      </td>
+    
+      <td><b>
+        10        </b>
+      </td>
+      <td><b>
+        55        </b>
+      </td>
+      <td><b>5.5      </b>
+      </td>
+    
+      <td><b>
+        10        </b>
+      </td>
+      <td><b>
+        53        </b>
+      </td>
+      <td><b>5.3      </b>
+      </td>
+    
+      <td><b>
+        80        </b>
+      </td>
+      <td><b>
+        440        </b>
+      </td>
+      <td><b>5.5      </b>
+      </td>
+    
+      <td><b>
+        82        </b>
+      </td>
+      <td><b>
+        451        </b>
+      </td>
+      <td><b>5.5      </b>
+      </td>
+    
+      <td><b>
+        82        </b>
+      </td>
+      <td><b>
+        451        </b>
+      </td>
+      <td><b>5.5      </b>
+      </td>
+    
+      <td><b>
+        84        </b>
+      </td>
+      <td><b>
+        462        </b>
+      </td>
+      <td><b>5.5      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>8. Sunflower</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Rabi</td>
+                        <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+              5            </td>
+            <td>
+              13            </td>
+            <td>
+              2.60            </td>
+                      <td>
+              5            </td>
+            <td>
+              15            </td>
+            <td>
+              3.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Sunflower)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+        5        </b>
+      </td>
+      <td><b>
+        13        </b>
+      </td>
+      <td><b>2.6      </b>
+      </td>
+    
+      <td><b>
+        5        </b>
+      </td>
+      <td><b>
+        15        </b>
+      </td>
+      <td><b>3      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>9. Urad</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Kharif</td>
+                        <td>
+              10            </td>
+            <td>
+              8            </td>
+            <td>
+              0.80            </td>
+                      <td>
+              20            </td>
+            <td>
+              20            </td>
+            <td>
+              1.00            </td>
+                      <td>
+              5            </td>
+            <td>
+              5            </td>
+            <td>
+              1.00            </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                      <td>
+                          </td>
+            <td>
+                          </td>
+            <td>
+                          </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Urad)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        10        </b>
+      </td>
+      <td><b>
+        8        </b>
+      </td>
+      <td><b>0.8      </b>
+      </td>
+    
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>
+        20        </b>
+      </td>
+      <td><b>1      </b>
+      </td>
+    
+      <td><b>
+        5        </b>
+      </td>
+      <td><b>
+        5        </b>
+      </td>
+      <td><b>1      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+    
+      <td><b>
+                </b>
+      </td>
+      <td><b>
+                </b>
+      </td>
+      <td><b>0      </b>
+      </td>
+        </tr>
+          <tr>
+          <th>10. Wheat</th>
+          <td></td>
+                    <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                  <td>
+
+          </td>
+          <td><b>
+            </b>
+          </td>
+          <td><b>
+            </b>
+          </td>
+                </tr>
+                      <tr>
+            <td rowspan="1">1. Chandigarh</td>
+            <td>Rabi</td>
+                        <td>
+              750            </td>
+            <td>
+              3375            </td>
+            <td>
+              4.50            </td>
+                      <td>
+              750            </td>
+            <td>
+              3350            </td>
+            <td>
+              4.47            </td>
+                      <td>
+              700            </td>
+            <td>
+              3315            </td>
+            <td>
+              4.74            </td>
+                      <td>
+              650            </td>
+            <td>
+              3000            </td>
+            <td>
+              4.62            </td>
+                      <td>
+              600            </td>
+            <td>
+              2400            </td>
+            <td>
+              4.00            </td>
+                      <td>
+              600            </td>
+            <td>
+              2750            </td>
+            <td>
+              4.58            </td>
+                      <td>
+              600            </td>
+            <td>
+              2800            </td>
+            <td>
+              4.67            </td>
+                      <td>
+              600            </td>
+            <td>
+              2800            </td>
+            <td>
+              4.67            </td>
+                      <td>
+              600            </td>
+            <td>
+              2700            </td>
+            <td>
+              4.50            </td>
+                      <td>
+              600            </td>
+            <td>
+              2700            </td>
+            <td>
+              4.50            </td>
+                      <td>
+              600            </td>
+            <td>
+              2715            </td>
+            <td>
+              4.53            </td>
+                      <td>
+              600            </td>
+            <td>
+              2725            </td>
+            <td>
+              4.54            </td>
+                      <td>
+              575            </td>
+            <td>
+              2590            </td>
+            <td>
+              4.50            </td>
+                      <td>
+              575            </td>
+            <td>
+              2600            </td>
+            <td>
+              4.52            </td>
+                      <td>
+              550            </td>
+            <td>
+              2500            </td>
+            <td>
+              4.55            </td>
+                      <td>
+              550            </td>
+            <td>
+              2530            </td>
+            <td>
+              4.60            </td>
+                      <td>
+              550            </td>
+            <td>
+              2585            </td>
+            <td>
+              4.70            </td>
+                      <td>
+              546            </td>
+            <td>
+              2566            </td>
+            <td>
+              4.70            </td>
+                      <td>
+              546            </td>
+            <td>
+              2730            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              546            </td>
+            <td>
+              2457            </td>
+            <td>
+              4.50            </td>
+                      <td>
+              547            </td>
+            <td>
+              2735            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              547            </td>
+            <td>
+              2735            </td>
+            <td>
+              5.00            </td>
+                      <td>
+              547            </td>
+            <td>
+              2735            </td>
+            <td>
+              5.00            </td>
+                    </tr>
+                  <tr>
+
+      <td><b>Total (Wheat)</b></td>
+      <td>&nbsp;</td>
+      
+      <td><b>
+        750        </b>
+      </td>
+      <td><b>
+        3375        </b>
+      </td>
+      <td><b>4.5      </b>
+      </td>
+    
+      <td><b>
+        750        </b>
+      </td>
+      <td><b>
+        3350        </b>
+      </td>
+      <td><b>4.47      </b>
+      </td>
+    
+      <td><b>
+        700        </b>
+      </td>
+      <td><b>
+        3315        </b>
+      </td>
+      <td><b>4.74      </b>
+      </td>
+    
+      <td><b>
+        650        </b>
+      </td>
+      <td><b>
+        3000        </b>
+      </td>
+      <td><b>4.62      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2400        </b>
+      </td>
+      <td><b>4      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2750        </b>
+      </td>
+      <td><b>4.58      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2800        </b>
+      </td>
+      <td><b>4.67      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2800        </b>
+      </td>
+      <td><b>4.67      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2700        </b>
+      </td>
+      <td><b>4.5      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2700        </b>
+      </td>
+      <td><b>4.5      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2715        </b>
+      </td>
+      <td><b>4.53      </b>
+      </td>
+    
+      <td><b>
+        600        </b>
+      </td>
+      <td><b>
+        2725        </b>
+      </td>
+      <td><b>4.54      </b>
+      </td>
+    
+      <td><b>
+        575        </b>
+      </td>
+      <td><b>
+        2590        </b>
+      </td>
+      <td><b>4.5      </b>
+      </td>
+    
+      <td><b>
+        575        </b>
+      </td>
+      <td><b>
+        2600        </b>
+      </td>
+      <td><b>4.52      </b>
+      </td>
+    
+      <td><b>
+        550        </b>
+      </td>
+      <td><b>
+        2500        </b>
+      </td>
+      <td><b>4.55      </b>
+      </td>
+    
+      <td><b>
+        550        </b>
+      </td>
+      <td><b>
+        2530        </b>
+      </td>
+      <td><b>4.6      </b>
+      </td>
+    
+      <td><b>
+        550        </b>
+      </td>
+      <td><b>
+        2585        </b>
+      </td>
+      <td><b>4.7      </b>
+      </td>
+    
+      <td><b>
+        546        </b>
+      </td>
+      <td><b>
+        2566        </b>
+      </td>
+      <td><b>4.7      </b>
+      </td>
+    
+      <td><b>
+        546        </b>
+      </td>
+      <td><b>
+        2730        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        546        </b>
+      </td>
+      <td><b>
+        2457        </b>
+      </td>
+      <td><b>4.5      </b>
+      </td>
+    
+      <td><b>
+        547        </b>
+      </td>
+      <td><b>
+        2735        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        547        </b>
+      </td>
+      <td><b>
+        2735        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+    
+      <td><b>
+        547        </b>
+      </td>
+      <td><b>
+        2735        </b>
+      </td>
+      <td><b>5      </b>
+      </td>
+        </tr>
+
+
+        </tbody>
+      </table>

@@ -1,0 +1,49 @@
+State,Crop,District,Season,Area_(Hectare),Year,Production_(Tonnes),Yield_(Ton./Ha.)
+ladakh crop.csv,Barley,Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Barley,Leh ladakh,Rabi,9970.97,2000-2001,17651.94,1.77
+ladakh crop.csv,Masoor,Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Masoor,Leh ladakh,Rabi,96.0,2000-2001,76.8,0.8
+ladakh crop.csv,Onion,Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Onion,Leh ladakh,Rabi,95.5,2000-2001,1442.0,15.1
+ladakh crop.csv,Other Rabi pulses,Leh ladakh,Rabi,12.0,2000-2001,72.0,6.0
+ladakh crop.csv,Peas & beans (Pulses),Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Peas & beans (Pulses),Leh ladakh,Rabi,1311.4,2000-2001,1720.4,1.31
+ladakh crop.csv,Potato,Kargil,Kharif,,2000-2001,,
+ladakh crop.csv,Potato,Leh ladakh,Kharif,861.2,2000-2001,9187.2,10.67
+ladakh crop.csv,Rapeseed &Mustard,Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Rapeseed &Mustard,Leh ladakh,Rabi,159.55,2000-2001,237.17,1.49
+ladakh crop.csv,Small millets,Leh ladakh,Kharif,410.5,2000-2001,267.42,0.65
+ladakh crop.csv,Wheat,Kargil,Rabi,,2000-2001,,
+ladakh crop.csv,Wheat,Leh ladakh,Rabi,4399.05,2000-2001,7222.29,1.64
+ladakh crop.csv,Barley,Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Barley,Leh ladakh,Rabi,7801.3,2001-2002,14508.7,1.86
+ladakh crop.csv,Masoor,Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Masoor,Leh ladakh,Rabi,97.5,2001-2002,78.0,0.8
+ladakh crop.csv,Onion,Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Onion,Leh ladakh,Rabi,97.0,2001-2002,1580.0,16.29
+ladakh crop.csv,Other Rabi pulses,Leh ladakh,Rabi,12.0,2001-2002,72.0,6.0
+ladakh crop.csv,Peas & beans (Pulses),Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Peas & beans (Pulses),Leh ladakh,Rabi,1334.65,2001-2002,1786.16,1.34
+ladakh crop.csv,Potato,Kargil,Kharif,,2001-2002,,
+ladakh crop.csv,Potato,Leh ladakh,Kharif,420.0,2001-2002,7384.92,17.58
+ladakh crop.csv,Rapeseed &Mustard,Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Rapeseed &Mustard,Leh ladakh,Rabi,559.5,2001-2002,237.17,0.42
+ladakh crop.csv,Small millets,Leh ladakh,Kharif,,2001-2002,,
+ladakh crop.csv,Wheat,Kargil,Rabi,,2001-2002,,
+ladakh crop.csv,Wheat,Leh ladakh,Rabi,5704.5,2001-2002,10466.0,1.83
+ladakh crop.csv,Barley,Kargil,Rabi,5374.0,2002-2003,10748.0,2.0
+ladakh crop.csv,Barley,Leh ladakh,Rabi,4234.0,2002-2003,7164.7,1.69
+ladakh crop.csv,Masoor,Kargil,Rabi,20.0,2002-2003,16.0,0.8
+ladakh crop.csv,Masoor,Leh ladakh,Rabi,80.0,2002-2003,64.0,0.8
+ladakh crop.csv,Onion,Kargil,Rabi,59.0,2002-2003,830.0,14.07
+ladakh crop.csv,Onion,Leh ladakh,Rabi,37.3,2002-2003,607.57,16.29
+ladakh crop.csv,Other Rabi pulses,Leh ladakh,Rabi,12.0,2002-2003,72.0,6.0
+ladakh crop.csv,Peas & beans (Pulses),Kargil,Rabi,1103.0,2002-2003,1473.0,1.34
+ladakh crop.csv,Peas & beans (Pulses),Leh ladakh,Rabi,298.0,2002-2003,357.0,1.2
+ladakh crop.csv,Potato,Kargil,Kharif,168.0,2002-2003,2354.0,14.01
+ladakh crop.csv,Potato,Leh ladakh,Kharif,250.14,2002-2003,5002.8,20.0
+ladakh crop.csv,Rapeseed &Mustard,Kargil,Rabi,27.0,2002-2003,26.0,0.96
+ladakh crop.csv,Rapeseed &Mustard,Leh ladakh,Rabi,132.0,2002-2003,211.0,1.6
+ladakh crop.csv,Small millets,Leh ladakh,Kharif,,2002-2003,,
+ladakh crop.csv,Wheat,Kargil,Rabi,2128.0,2002-2003,3831.0,1.8
+ladakh crop.csv,Wheat,Leh ladakh,Rabi,2415.0,2002-2003,3750.42,1.55

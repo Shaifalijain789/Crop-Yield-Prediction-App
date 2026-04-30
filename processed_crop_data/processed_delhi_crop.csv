@@ -1,0 +1,97 @@
+State,Crop,District,Season,Area_(Hectare),Year,Production_(Tonnes),Yield_(Ton./Ha.)
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1549.0,2000-2001,2943.0,1.9
+delhi crop.csv,Barley,Delhi_Total,Kharif,72.0,2000-2001,202.0,2.81
+delhi crop.csv,Gram,Delhi_Total,Rabi,48.0,2000-2001,70.0,1.46
+delhi crop.csv,Jowar,Delhi_Total,Kharif,8238.0,2000-2001,7950.0,0.97
+delhi crop.csv,Maize,Delhi_Total,Kharif,54.0,2000-2001,99.0,1.83
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2000-2001,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,7039.0,2000-2001,19873.0,2.82
+delhi crop.csv,Wheat,Delhi_Total,Rabi,18430.0,2000-2001,80355.0,4.36
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1586.0,2001-2002,2979.0,1.88
+delhi crop.csv,Barley,Delhi_Total,Kharif,76.0,2001-2002,214.0,2.82
+delhi crop.csv,Gram,Delhi_Total,Rabi,76.0,2001-2002,67.0,0.88
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3280.0,2001-2002,3168.0,0.97
+delhi crop.csv,Maize,Delhi_Total,Kharif,48.0,2001-2002,1054.0,21.96
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2001-2002,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,6821.0,2001-2002,19008.0,2.79
+delhi crop.csv,Wheat,Delhi_Total,Rabi,21309.0,2001-2002,92480.0,4.34
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1531.0,2002-2003,2876.0,1.88
+delhi crop.csv,Barley,Delhi_Total,Kharif,70.0,2002-2003,197.0,2.81
+delhi crop.csv,Gram,Delhi_Total,Rabi,8.0,2002-2003,75.0,9.38
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3341.0,2002-2003,3227.0,0.97
+delhi crop.csv,Maize,Delhi_Total,Kharif,40.0,2002-2003,878.0,21.95
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2002-2003,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,6848.0,2002-2003,19083.0,2.79
+delhi crop.csv,Wheat,Delhi_Total,Rabi,20135.0,2002-2003,87385.0,4.34
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1439.0,2003-2004,2689.0,1.87
+delhi crop.csv,Barley,Delhi_Total,Kharif,66.0,2003-2004,195.0,2.95
+delhi crop.csv,Gram,Delhi_Total,Rabi,13.0,2003-2004,72.0,5.54
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3140.0,2003-2004,3032.0,0.97
+delhi crop.csv,Maize,Delhi_Total,Kharif,38.0,2003-2004,843.0,22.18
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2003-2004,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,7248.0,2003-2004,20198.0,2.79
+delhi crop.csv,Wheat,Delhi_Total,Rabi,18927.0,2003-2004,82142.0,4.34
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1519.0,2004-2005,3815.0,2.51
+delhi crop.csv,Barley,Delhi_Total,Kharif,65.0,2004-2005,183.0,2.82
+delhi crop.csv,Gram,Delhi_Total,Rabi,44.0,2004-2005,62.0,1.41
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3319.0,2004-2005,3008.0,0.91
+delhi crop.csv,Maize,Delhi_Total,Kharif,37.0,2004-2005,828.0,22.38
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2004-2005,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,6068.0,2004-2005,19768.0,3.26
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19450.0,2004-2005,84802.0,4.36
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1519.0,2005-2006,3815.0,2.51
+delhi crop.csv,Barley,Delhi_Total,Kharif,65.0,2005-2006,183.0,2.82
+delhi crop.csv,Gram,Delhi_Total,Rabi,44.0,2005-2006,62.0,1.41
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3319.0,2005-2006,3008.0,0.91
+delhi crop.csv,Maize,Delhi_Total,Kharif,37.0,2005-2006,828.0,22.38
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2005-2006,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,6068.0,2005-2006,19768.0,3.26
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19450.0,2005-2006,86498.0,4.45
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1520.0,2006-2007,3817.0,2.51
+delhi crop.csv,Barley,Delhi_Total,Kharif,64.0,2006-2007,186.0,2.91
+delhi crop.csv,Gram,Delhi_Total,Rabi,41.0,2006-2007,54.0,1.32
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3242.0,2006-2007,2937.0,0.91
+delhi crop.csv,Maize,Delhi_Total,Kharif,35.0,2006-2007,783.0,22.37
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2006-2007,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,6035.0,2006-2007,17269.0,2.86
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19360.0,2006-2007,85558.0,4.42
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1482.0,2007-2008,3256.0,2.2
+delhi crop.csv,Barley,Delhi_Total,Kharif,62.0,2007-2008,181.0,2.92
+delhi crop.csv,Gram,Delhi_Total,Rabi,25.0,2007-2008,53.0,2.12
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3161.0,2007-2008,3034.0,0.96
+delhi crop.csv,Maize,Delhi_Total,Kharif,34.0,2007-2008,174.0,5.12
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2007-2008,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,5884.0,2007-2008,16837.0,2.86
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19050.0,2007-2008,83419.0,4.38
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1487.0,2008-2009,3278.0,2.2
+delhi crop.csv,Barley,Delhi_Total,Kharif,68.0,2008-2009,184.0,2.71
+delhi crop.csv,Gram,Delhi_Total,Rabi,25.0,2008-2009,53.0,2.12
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3193.0,2008-2009,3065.0,0.96
+delhi crop.csv,Maize,Delhi_Total,Kharif,34.0,2008-2009,174.0,5.12
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2008-2009,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,5973.0,2008-2009,17260.0,2.89
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19622.0,2008-2009,87182.0,4.44
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1502.0,2009-2010,3256.0,2.17
+delhi crop.csv,Barley,Delhi_Total,Kharif,70.0,2009-2010,181.0,2.59
+delhi crop.csv,Gram,Delhi_Total,Rabi,25.0,2009-2010,10.0,0.4
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3201.0,2009-2010,3035.0,0.95
+delhi crop.csv,Maize,Delhi_Total,Kharif,36.0,2009-2010,174.0,4.83
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2009-2010,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,5854.0,2009-2010,16837.0,2.88
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19671.0,2009-2010,83419.0,4.24
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1478.0,2010-2011,3249.0,2.2
+delhi crop.csv,Barley,Delhi_Total,Kharif,59.0,2010-2011,172.0,2.92
+delhi crop.csv,Gram,Delhi_Total,Rabi,2.0,2010-2011,4.0,2.0
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3155.0,2010-2011,3032.0,0.96
+delhi crop.csv,Maize,Delhi_Total,Kharif,20.0,2010-2011,102.0,5.1
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,,2010-2011,,
+delhi crop.csv,Rice,Delhi_Total,Kharif,5848.0,2010-2011,16826.0,2.88
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19220.0,2010-2011,82876.0,4.31
+delhi crop.csv,Bajra,Delhi_Total,Kharif,1475.0,2011-2012,4873.0,3.3
+delhi crop.csv,Barley,Delhi_Total,Kharif,60.0,2011-2012,180.0,3.0
+delhi crop.csv,Gram,Delhi_Total,Rabi,2.0,2011-2012,4.0,2.0
+delhi crop.csv,Jowar,Delhi_Total,Kharif,3150.0,2011-2012,3150.0,1.0
+delhi crop.csv,Maize,Delhi_Total,Kharif,20.0,2011-2012,102.0,5.1
+delhi crop.csv,Rapeseed &Mustard,Delhi_Total,Rabi,3250.0,2011-2012,8125.0,2.5
+delhi crop.csv,Rice,Delhi_Total,Kharif,5848.0,2011-2012,17580.0,3.01
+delhi crop.csv,Wheat,Delhi_Total,Rabi,19228.0,2011-2012,82905.0,4.31

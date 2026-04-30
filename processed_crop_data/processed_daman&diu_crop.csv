@@ -1,0 +1,15 @@
+State,Crop,District,Season,Area_(Hectare),Year,Production_(Tonnes),Yield_(Ton./Ha.)
+daman&diu crop.csv,Bajra,Diu,Kharif,300.0,2000-2001,400.0,1.33
+daman&diu crop.csv,Rice,Daman,Kharif,2000.0,2000-2001,3600.0,1.8
+daman&diu crop.csv,Bajra,Diu,Kharif,300.0,2001-2002,500.0,1.67
+daman&diu crop.csv,Rice,Daman,Kharif,1891.5,2001-2002,3800.0,2.01
+daman&diu crop.csv,Bajra,Diu,Kharif,668.3,2002-2003,900.0,1.35
+daman&diu crop.csv,Rice,Daman,Kharif,1783.0,2002-2003,2030.26,1.14
+daman&diu crop.csv,Bajra,Diu,Kharif,508.0,2003-2004,677.2,1.33
+daman&diu crop.csv,Rice,Daman,Kharif,2000.0,2003-2004,2570.66,1.29
+daman&diu crop.csv,Bajra,Diu,Kharif,434.0,2004-2005,578.5,1.33
+daman&diu crop.csv,Rice,Daman,Kharif,1783.0,2004-2005,2178.8,1.22
+daman&diu crop.csv,Bajra,Diu,Kharif,496.0,2005-2006,648.0,1.31
+daman&diu crop.csv,Rice,Daman,Kharif,1432.0,2005-2006,1822.66,1.27
+daman&diu crop.csv,Bajra,Diu,Kharif,496.0,2006-2007,648.0,1.31
+daman&diu crop.csv,Rice,Daman,Kharif,1432.0,2006-2007,1823.0,1.27

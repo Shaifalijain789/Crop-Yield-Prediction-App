@@ -1,0 +1,191 @@
+State,Crop,District,Season,Area_(Hectare),Year,Production_(Tonnes),Yield_(Ton./Ha.)
+goa crop.csv,Groundnut,North goa,Kharif,3204.0,2000-2001,5234.0,1.63
+goa crop.csv,Groundnut,South goa,Kharif,87.0,2000-2001,174.0,2.0
+goa crop.csv,Other Rabi pulses,North goa,Rabi,,2000-2001,,
+goa crop.csv,Other Rabi pulses,South goa,Rabi,,2000-2001,,
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2000-2001,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2000-2001,,
+goa crop.csv,Ragi,North goa,Kharif,160.0,2000-2001,165.0,1.03
+goa crop.csv,Ragi,South goa,Kharif,234.0,2000-2001,212.0,0.91
+goa crop.csv,Rice,North goa,Kharif,29535.0,2000-2001,85664.0,2.9
+goa crop.csv,Rice,South goa,Kharif,22907.0,2000-2001,59510.0,2.6
+goa crop.csv,Groundnut,North goa,Kharif,3281.0,2001-2002,7891.0,2.41
+goa crop.csv,Groundnut,South goa,Kharif,31.0,2001-2002,51.0,1.65
+goa crop.csv,Other Rabi pulses,North goa,Rabi,,2001-2002,,
+goa crop.csv,Other Rabi pulses,South goa,Rabi,,2001-2002,,
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2001-2002,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2001-2002,,
+goa crop.csv,Ragi,North goa,Kharif,223.0,2001-2002,279.0,1.25
+goa crop.csv,Ragi,South goa,Kharif,218.0,2001-2002,184.0,0.84
+goa crop.csv,Rice,North goa,Kharif,29605.0,2001-2002,85399.0,2.88
+goa crop.csv,Rice,South goa,Kharif,22572.0,2001-2002,61837.0,2.74
+goa crop.csv,Groundnut,North goa,Kharif,2623.0,2002-2003,4579.0,1.75
+goa crop.csv,Groundnut,South goa,Kharif,17.0,2002-2003,21.0,1.24
+goa crop.csv,Other Rabi pulses,North goa,Rabi,,2002-2003,,
+goa crop.csv,Other Rabi pulses,South goa,Rabi,,2002-2003,,
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2002-2003,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2002-2003,,
+goa crop.csv,Ragi,North goa,Kharif,125.0,2002-2003,119.0,0.95
+goa crop.csv,Ragi,South goa,Kharif,155.0,2002-2003,135.0,0.87
+goa crop.csv,Rice,North goa,Kharif,29124.0,2002-2003,76689.0,2.63
+goa crop.csv,Rice,South goa,Kharif,23861.0,2002-2003,52256.0,2.19
+goa crop.csv,Groundnut,North goa,Kharif,3702.0,2003-2004,6965.0,1.88
+goa crop.csv,Groundnut,South goa,Kharif,18.0,2003-2004,33.0,1.83
+goa crop.csv,Other Rabi pulses,North goa,Rabi,,2003-2004,,
+goa crop.csv,Other Rabi pulses,South goa,Rabi,,2003-2004,,
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2003-2004,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2003-2004,,
+goa crop.csv,Ragi,North goa,Kharif,38.0,2003-2004,34.0,0.89
+goa crop.csv,Ragi,South goa,Kharif,124.0,2003-2004,136.0,1.1
+goa crop.csv,Rice,North goa,Kharif,29653.0,2003-2004,71918.0,2.43
+goa crop.csv,Rice,South goa,Kharif,22538.0,2003-2004,49761.0,2.21
+goa crop.csv,Groundnut,North goa,Kharif,640.0,2004-2005,896.0,1.4
+goa crop.csv,Groundnut,South goa,Kharif,2.0,2004-2005,,0.0
+goa crop.csv,Other Rabi pulses,North goa,Rabi,8730.0,2004-2005,8798.0,1.01
+goa crop.csv,Other Rabi pulses,South goa,Rabi,737.0,2004-2005,1055.0,1.43
+goa crop.csv,Other Kharif pulses,North goa,Kharif,325.0,2004-2005,154.0,0.47
+goa crop.csv,Other Kharif pulses,South goa,Kharif,63.0,2004-2005,22.0,0.35
+goa crop.csv,Ragi,North goa,Kharif,39.0,2004-2005,40.0,1.03
+goa crop.csv,Ragi,South goa,Kharif,119.0,2004-2005,151.0,1.27
+goa crop.csv,Rice,North goa,Kharif,19974.0,2004-2005,47919.0,2.4
+goa crop.csv,Rice,South goa,Kharif,13664.0,2004-2005,30786.0,2.25
+goa crop.csv,Groundnut,North goa,Kharif,570.0,2005-2006,1198.0,2.1
+goa crop.csv,Groundnut,South goa,Kharif,,2005-2006,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,6699.0,2005-2006,7372.0,1.1
+goa crop.csv,Other Rabi pulses,South goa,Rabi,835.0,2005-2006,857.0,1.03
+goa crop.csv,Other Kharif pulses,North goa,Kharif,328.0,2005-2006,290.0,0.88
+goa crop.csv,Other Kharif pulses,South goa,Kharif,28.0,2005-2006,15.0,0.54
+goa crop.csv,Ragi,North goa,Kharif,25.0,2005-2006,26.0,1.04
+goa crop.csv,Ragi,South goa,Kharif,129.0,2005-2006,131.0,1.02
+goa crop.csv,Rice,North goa,Kharif,18201.0,2005-2006,35411.0,1.95
+goa crop.csv,Rice,South goa,Kharif,12965.0,2005-2006,23856.0,1.84
+goa crop.csv,Groundnut,North goa,Kharif,461.0,2006-2007,1390.0,3.02
+goa crop.csv,Groundnut,South goa,Kharif,,2006-2007,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,5720.0,2006-2007,6242.0,1.09
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1650.0,2006-2007,1594.0,0.97
+goa crop.csv,Other Kharif pulses,North goa,Kharif,150.0,2006-2007,126.0,0.84
+goa crop.csv,Other Kharif pulses,South goa,Kharif,30.0,2006-2007,20.0,0.67
+goa crop.csv,Ragi,North goa,Kharif,25.0,2006-2007,23.0,0.92
+goa crop.csv,Ragi,South goa,Kharif,125.0,2006-2007,110.0,0.88
+goa crop.csv,Rice,North goa,Kharif,17314.0,2006-2007,41896.0,2.42
+goa crop.csv,Rice,South goa,Kharif,13318.0,2006-2007,30325.0,2.28
+goa crop.csv,Groundnut,North goa,Kharif,357.0,2007-2008,1022.0,2.86
+goa crop.csv,Groundnut,South goa,Kharif,,2007-2008,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,8175.0,2007-2008,6844.0,0.84
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1562.0,2007-2008,1293.0,0.83
+goa crop.csv,Other Kharif pulses,North goa,Kharif,175.0,2007-2008,123.0,0.7
+goa crop.csv,Other Kharif pulses,South goa,Kharif,37.0,2007-2008,26.0,0.7
+goa crop.csv,Ragi,North goa,Kharif,26.0,2007-2008,25.0,0.96
+goa crop.csv,Ragi,South goa,Kharif,124.0,2007-2008,112.0,0.9
+goa crop.csv,Rice,North goa,Kharif,18019.0,2007-2008,47954.0,2.66
+goa crop.csv,Rice,South goa,Kharif,13228.0,2007-2008,30816.0,2.33
+goa crop.csv,Groundnut,North goa,Kharif,534.0,2008-2009,1345.0,2.52
+goa crop.csv,Groundnut,South goa,Kharif,,2008-2009,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,8352.0,2008-2009,7540.0,0.9
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1371.0,2008-2009,1244.0,0.91
+goa crop.csv,Other Kharif pulses,North goa,Kharif,224.0,2008-2009,189.0,0.84
+goa crop.csv,Other Kharif pulses,South goa,Kharif,2.0,2008-2009,1.0,0.5
+goa crop.csv,Ragi,North goa,Kharif,13.0,2008-2009,16.0,1.23
+goa crop.csv,Ragi,South goa,Kharif,35.0,2008-2009,34.0,0.97
+goa crop.csv,Rice,North goa,Kharif,18045.0,2008-2009,47789.0,2.65
+goa crop.csv,Rice,South goa,Kharif,13210.0,2008-2009,33440.0,2.53
+goa crop.csv,Groundnut,North goa,Kharif,394.0,2009-2010,951.0,2.41
+goa crop.csv,Groundnut,South goa,Kharif,,2009-2010,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,6620.0,2009-2010,7320.0,1.11
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1308.0,2009-2010,1467.0,1.12
+goa crop.csv,Other Kharif pulses,North goa,Kharif,156.0,2009-2010,129.0,0.83
+goa crop.csv,Other Kharif pulses,South goa,Kharif,16.0,2009-2010,10.0,0.63
+goa crop.csv,Ragi,North goa,Kharif,2.0,2009-2010,2.685,1.34
+goa crop.csv,Ragi,South goa,Kharif,16.0,2009-2010,11.09,0.69
+goa crop.csv,Rice,North goa,Kharif,14740.0,2009-2010,44206.0,3.0
+goa crop.csv,Rice,South goa,Kharif,13590.0,2009-2010,35908.0,2.64
+goa crop.csv,Groundnut,North goa,Kharif,361.0,2010-2011,734.0,2.03
+goa crop.csv,Groundnut,South goa,Kharif,,2010-2011,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,7010.0,2010-2011,6887.0,0.98
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1305.0,2010-2011,984.0,0.75
+goa crop.csv,Other Kharif pulses,North goa,Kharif,200.0,2010-2011,178.0,0.89
+goa crop.csv,Other Kharif pulses,South goa,Kharif,8.0,2010-2011,8.0,1.0
+goa crop.csv,Ragi,North goa,Kharif,0.1,2010-2011,0.075,0.75
+goa crop.csv,Ragi,South goa,Kharif,15.4,2010-2011,10.72,0.7
+goa crop.csv,Rice,North goa,Kharif,14385.0,2010-2011,40962.0,2.85
+goa crop.csv,Rice,South goa,Kharif,13455.0,2010-2011,40307.0,3.0
+goa crop.csv,Groundnut,North goa,Kharif,361.0,2011-2012,736.0,2.04
+goa crop.csv,Groundnut,South goa,Kharif,,2011-2012,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,5673.0,2011-2012,4813.0,0.85
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1310.0,2011-2012,1069.0,0.82
+goa crop.csv,Other Kharif pulses,North goa,Kharif,153.0,2011-2012,115.0,0.75
+goa crop.csv,Other Kharif pulses,South goa,Kharif,18.0,2011-2012,13.0,0.72
+goa crop.csv,Ragi,North goa,Kharif,,2011-2012,,
+goa crop.csv,Ragi,South goa,Kharif,,2011-2012,,
+goa crop.csv,Rice,North goa,Kharif,13115.0,2011-2012,36831.0,2.81
+goa crop.csv,Rice,South goa,Kharif,14615.0,2011-2012,41658.0,2.85
+goa crop.csv,Groundnut,North goa,Kharif,336.0,2012-2013,859.0,2.56
+goa crop.csv,Groundnut,South goa,Kharif,,2012-2013,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,4431.0,2012-2013,4758.0,1.07
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1314.0,2012-2013,1036.0,0.79
+goa crop.csv,Other Kharif pulses,North goa,Kharif,125.0,2012-2013,105.0,0.84
+goa crop.csv,Other Kharif pulses,South goa,Kharif,17.0,2012-2013,13.0,0.76
+goa crop.csv,Ragi,North goa,Kharif,,2012-2013,,
+goa crop.csv,Ragi,South goa,Kharif,,2012-2013,,
+goa crop.csv,Rice,North goa,Kharif,13055.0,2012-2013,37429.0,2.87
+goa crop.csv,Rice,South goa,Kharif,14575.0,2012-2013,39680.0,2.72
+goa crop.csv,Groundnut,North goa,Kharif,280.0,2013-2014,651.0,2.33
+goa crop.csv,Groundnut,South goa,Kharif,,2013-2014,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,4145.0,2013-2014,3691.0,0.89
+goa crop.csv,Other Rabi pulses,South goa,Rabi,1200.0,2013-2014,944.0,0.79
+goa crop.csv,Other Kharif pulses,North goa,Kharif,190.0,2013-2014,184.0,0.97
+goa crop.csv,Other Kharif pulses,South goa,Kharif,5.0,2013-2014,2.92,0.58
+goa crop.csv,Ragi,North goa,Kharif,,2013-2014,,
+goa crop.csv,Ragi,South goa,Kharif,,2013-2014,,
+goa crop.csv,Rice,North goa,Kharif,12454.0,2013-2014,34934.0,2.81
+goa crop.csv,Rice,South goa,Kharif,14765.0,2013-2014,36345.0,2.46
+goa crop.csv,Groundnut,North goa,Kharif,210.0,2014-2015,498.0,2.37
+goa crop.csv,Groundnut,South goa,Kharif,,2014-2015,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,5459.0,2014-2015,5402.0,0.99
+goa crop.csv,Other Rabi pulses,South goa,Rabi,574.0,2014-2015,777.0,1.35
+goa crop.csv,Other Kharif pulses,North goa,Kharif,155.0,2014-2015,131.0,0.85
+goa crop.csv,Other Kharif pulses,South goa,Kharif,15.0,2014-2015,8.0,0.53
+goa crop.csv,Ragi,North goa,Kharif,,2014-2015,,
+goa crop.csv,Ragi,South goa,Kharif,,2014-2015,,
+goa crop.csv,Rice,North goa,Kharif,12257.0,2014-2015,34354.0,2.8
+goa crop.csv,Rice,South goa,Kharif,13584.0,2014-2015,35918.0,2.64
+goa crop.csv,Groundnut,North goa,Kharif,2.0,2015-2016,5.0,2.5
+goa crop.csv,Groundnut,South goa,Kharif,,2015-2016,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,3845.0,2015-2016,3371.0,0.88
+goa crop.csv,Other Rabi pulses,South goa,Rabi,552.0,2015-2016,484.0,0.88
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2015-2016,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,1.0,2015-2016,0.0,0.0
+goa crop.csv,Ragi,North goa,Kharif,,2015-2016,,
+goa crop.csv,Ragi,South goa,Kharif,,2015-2016,,
+goa crop.csv,Rice,North goa,Kharif,10871.0,2015-2016,25820.0,2.38
+goa crop.csv,Rice,South goa,Kharif,13540.0,2015-2016,34736.0,2.57
+goa crop.csv,Groundnut,North goa,Kharif,4.0,2016-2017,7.0,1.75
+goa crop.csv,Groundnut,South goa,Kharif,,2016-2017,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,3268.0,2016-2017,3268.0,1.0
+goa crop.csv,Other Rabi pulses,South goa,Rabi,572.0,2016-2017,480.0,0.84
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2016-2017,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2016-2017,,
+goa crop.csv,Ragi,North goa,Kharif,,2016-2017,,
+goa crop.csv,Ragi,South goa,Kharif,,2016-2017,,
+goa crop.csv,Rice,North goa,Kharif,10661.0,2016-2017,31032.0,2.91
+goa crop.csv,Rice,South goa,Kharif,12779.0,2016-2017,30540.0,2.39
+goa crop.csv,Groundnut,North goa,Kharif,4.0,2017-2018,7.0,1.75
+goa crop.csv,Groundnut,South goa,Kharif,,2017-2018,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,3234.0,2017-2018,2555.0,0.79
+goa crop.csv,Other Rabi pulses,South goa,Rabi,570.0,2017-2018,479.0,0.84
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2017-2018,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2017-2018,,
+goa crop.csv,Ragi,North goa,Kharif,,2017-2018,,
+goa crop.csv,Ragi,South goa,Kharif,,2017-2018,,
+goa crop.csv,Rice,North goa,Kharif,10554.0,2017-2018,31253.0,2.96
+goa crop.csv,Rice,South goa,Kharif,12734.0,2017-2018,34336.0,2.7
+goa crop.csv,Groundnut,North goa,Kharif,11.0,2018-2019,23.0,2.09
+goa crop.csv,Groundnut,South goa,Kharif,,2018-2019,,
+goa crop.csv,Other Rabi pulses,North goa,Rabi,3235.0,2018-2019,2779.0,0.86
+goa crop.csv,Other Rabi pulses,South goa,Rabi,364.0,2018-2019,407.0,1.12
+goa crop.csv,Other Kharif pulses,North goa,Kharif,,2018-2019,,
+goa crop.csv,Other Kharif pulses,South goa,Kharif,,2018-2019,,
+goa crop.csv,Ragi,North goa,Kharif,,2018-2019,,
+goa crop.csv,Ragi,South goa,Kharif,,2018-2019,,
+goa crop.csv,Rice,North goa,Kharif,1056.0,2018-2019,47325.0,44.82
+goa crop.csv,Rice,South goa,Kharif,1201.0,2018-2019,47105.0,39.22
