@@ -23,14 +23,14 @@ A Machine Learning-based web application that predicts crop yield using historic
  * **Security**: Environment variables (.env)
 
 ## Installation & Setup
-1. **Clone Repository**
+**1. Clone Repository**
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Shaifalijain789/Crop-Yield-Prediction-App
 cd Crop-Yield-Prediction
 ```
 
-2.  **Create Virtual Environment**
+**2. Create Virtual Environment**
 ```bash
 python -m venv venv
 ```
@@ -41,12 +41,12 @@ Activate
 venv\Scripts\activate
 ```
 
-### Install Dependencies
+**3. Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-## Environment Variables Setup
+**4. Environment Variables Setup**
 This project uses sensitive data:
 
 * Database credentials
@@ -54,7 +54,7 @@ This project uses sensitive data:
 * Email credentials
 These are stored in a .env file (NOT included in repo)
 
-1. Create ```bash .env ``` file
+1. Create ```.env ``` file
 ```bash
     .env
 ```
@@ -77,8 +77,8 @@ EMAIL_PASS=your_app_password
 ```bash
    pip install python-dotenv
 ```
-4. Setup Database
-``` bash setup_db.py``` is inside the ``` bash db``` folder, run:
+**4. Setup Database**
+``` setup_db.py``` is inside the ```  db``` folder, run:
 ```bash
    python db/setup_db.py
 ```
@@ -88,7 +88,7 @@ This will:
 * Create users table
 
 
-## Run the Application
+**5. Run the Application**
 ```bash
    streamlit run app.py
 ```
