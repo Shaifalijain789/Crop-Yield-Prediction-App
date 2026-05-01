@@ -24,5 +24,8 @@ A Machine Learning-based web application that predicts crop yield using historic
 
 ## Installation & Setup
 ### Clone Repository
-```(git clone <your-repo-link>
-cd Crop-Yield-Prediction)```
+
+```bash
+(git clone <your-repo-link>
+cd Crop-Yield-Prediction)
+```
