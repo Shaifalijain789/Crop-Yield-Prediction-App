@@ -47,6 +47,7 @@ pip install -r requirements.txt
 ```
 
 **4. Environment Variables Setup**
+
 This project uses sensitive data:
 
 * Database credentials
@@ -78,6 +79,7 @@ EMAIL_PASS=your_app_password
    pip install python-dotenv
 ```
 **4. Setup Database**
+
 ``` setup_db.py``` is inside the ```  db``` folder, run:
 ```bash
    python db/setup_db.py
