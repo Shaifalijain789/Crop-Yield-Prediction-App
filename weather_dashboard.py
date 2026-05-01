@@ -2,8 +2,13 @@ import streamlit as st
 import requests
 from datetime import datetime
 import base64
+from dotenv import load_dotenv
+import os
+
 # ---------------- CONFIG ----------------
-API_KEY = "025466d28602b9e0e2e10dad17723ee6"
+
+load_dotenv()
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 GEOCODE_URL = "https://api.openweathermap.org/geo/1.0/direct"
 CURRENT_WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"

@@ -8,16 +8,22 @@ from mysql.connector import Error
 import bcrypt
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from dotenv import load_dotenv
+import os
+
 
 # ==========================
 # OTP GENERATION & EMAIL
 # ==========================
+
+load_dotenv()
+
 def generate_otp():
     return str(random.randint(100000, 999999))
 
 def send_otp_email(receiver_email, otp):
-    sender_email = "jainshaifali.2404@gmail.com"
-    sender_password = "lgae djio flli pizg"  # Gmail app password
+    sender_email = os.getenv("EMAIL_USER")
+    sender_password = os.getenv("EMAIL_PASS") # Gmail app password
 
     subject = "Your OTP Verification Code"
     body = f"Your OTP is: {otp}\nDo not share it with anyone."
@@ -52,10 +58,10 @@ def is_valid_email(email: str) -> bool:
 def save_user_to_db(username, email, password):
     try:
         connection = mysql.connector.connect(
-            host="localhost",
-            user="root",
-            password="mysql",
-            database="crop_yield_prediction"
+            host=os.getenv("DB_HOST"),
+            user=os.getenv("DB_USER"),
+            password=os.getenv("DB_PASSWORD"),
+            database=os.getenv("DB_NAME")
         )
         cursor = connection.cursor()
         
